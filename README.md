@@ -1,6 +1,7 @@
 # Rustis
 
-TCP in-memory data structure store
+
+( Small redis clone ) TCP in-memory data structure store and TOKIO event-loop
 
 ## Installation
 
